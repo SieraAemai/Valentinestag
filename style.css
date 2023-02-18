@@ -1,0 +1,19 @@
+* {box-sizing: border-box; }
+
+#flex-container { display: flex; height: 100px; flex-wrap: wrap; }
+
+body{
+  background-color: rgb(255,252,247);
+}
+
+h3 {
+    color: rgb(204, 129, 154); 
+    font-size: 20pt;
+    text-shadow: -1px 0 1px white, 0 -1px 1px white, 0 1px 1px white, 1px 0 1px white, 0 0 8px white, 0 0 8px white, 0 0 8px white, 2px 2px 3px rgba(96, 60, 73, 0.441);
+  }
+
+ h1 {
+    color: rgb(204, 129, 154); 
+    font-size: 40pt;
+    text-shadow: -1px 0 1px white, 0 -1px 1px white, 0 1px 1px white, 1px 0 1px white, 0 0 8px white, 0 0 8px white, 0 0 8px white, 2px 2px 3px rgba(71, 34, 42, 0.423);
+  }
